@@ -1,4 +1,4 @@
-function mpc = case118_2
+function mpc = case118
 %CASE118    Power flow data for IEEE 118 bus test case.
 %   Please see CASEFORMAT for details on the case file format.
 %   This data was converted from IEEE Common Data Format
@@ -176,7 +176,7 @@ mpc.gen = [
 	62	0	0	20	-20	0.998	100	1	100	0	0	0	0	0	0	0	0	0	0	0	0;
 	65	391	0	200	-67	1.005	100	1	491	0	0	0	0	0	0	0	0	0	0	0	0;
 	66	392	0	200	-67	1.05	100	1	492	0	0	0	0	0	0	0	0	0	0	0	0;
-	69	516.4	0	300	-300	1.035	100	1	805	0	0	0	0	0	0	0	0	0	0	0	0; % PmaxÔ­À´ÊÇ805.2
+	69	516.4	0	300	-300	1.035	100	1	805	0	0	0	0	0	0	0	0	0	0	0	0; % PmaxÃ”Â­Ã€Â´ÃŠÃ‡805.2
 	70	0	0	32	-10	0.984	100	1	100	0	0	0	0	0	0	0	0	0	0	0	0;
 	72	0	0	100	-100	0.98	100	1	100	0	0	0	0	0	0	0	0	0	0	0	0;
 	73	0	0	100	-100	0.991	100	1	100	0	0	0	0	0	0	0	0	0	0	0	0;
